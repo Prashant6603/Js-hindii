@@ -27,9 +27,9 @@
 // console.log(mama.trim())
 
 
-const nani = new String("Prashnat-is-a-good-human-being")
+// const nani = new String("Prashnat-is-a-good-human-being")
 
-console.log(nani.split('-'))
+// console.log(nani.split('-'))
 
 // ********************** Number and Maths **************************
 
@@ -37,4 +37,6 @@ console.log(nani.split('-'))
 
 // math
 
-
+const min =10
+const max =20
+console.log(Math.floor(Math.random()*(max -min +1)+min))
