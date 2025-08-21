@@ -14,6 +14,7 @@ let isLoggedin = false
 // null=>standalone type
 //  undefined=>
 // symbol => unique // mostly use in react
+//React
 
 
 // object
